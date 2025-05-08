@@ -23,7 +23,7 @@ numbers[0] = 10;
 numbers.push(6);
 
 // Removing Elements
-numbers.pop();
+console.log(numbers.pop());
 
 // Iterating Over Arrays
 numbers.forEach(function (number) {
